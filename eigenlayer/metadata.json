@@ -2,6 +2,6 @@
   "name": "Gstake",
   "website": "https://www.gstake.fi",
   "description": "Gstake is a liquid staking solution for DePIN, currently supports TheGraph, and will continue to support Livepeer, Arweave and other DePIN networks.",
-  "logo": "https://pbs.twimg.com/profile_images/1748159559770996736/T5RnGg_O_400x400.jpg",
+  "logo": "https://raw.githubusercontent.com/johnyjt/lagrange-demo/main/eigenlayer/demo.png",
   "twitter": "https://x.com/gstakefinance"
 }
